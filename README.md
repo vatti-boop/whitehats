@@ -1,5 +1,5 @@
-Adarsh M
-26BYB0229
+# Adarsh M
+# 26BYB0229
 
 I want to join the Whitehats club beacause I have an interest to explore the world of cybersecurity, understand what is all happening around and be a part of it. I also have an interest in ethical hacking and penetration testing, even though I know only a little about it. I want to explore the opportunities which lie in front of me through this club, increasing my knowledge about cyberthreats and cybersecurity.
 
